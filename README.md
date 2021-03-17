@@ -10,7 +10,7 @@ Python script to automate Logical Volume Management in Linux
 
 ## Links
 
-[Click here for Video and Post](https://www.linkedin.com/posts/amanjhagrolia143/)
+[Click here for Video and Post](https://www.linkedin.com/posts/amanjhagrolia143_arthbylw-vimaldaga-righteducation-activity-6777826726497042432-QC_R)
   
 ***Feel free to Contact!!***
 
